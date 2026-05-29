@@ -28,7 +28,7 @@ When I'm not building production-grade AI microservices, I am grinding data stru
 
 **Frontend (MERN):** `React.js` | `HTML5` | `CSS3` | `Tailwind CSS`
 
-**Cloud, DevOps & Tooling:** `Amazon Web Services (SQS, SNS, SES, IAM)` | `Linux / Unix` | `Git & GitHub` | `uv` | `MongoDB` | `PostgreSQL`
+**Cloud, DevOps & Tooling:** `Amazon Web Services` | `Linux / Unix` | `Git & GitHub` | `uv` | `MongoDB` | `PostgreSQL`
 
 ---
 
