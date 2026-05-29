@@ -8,14 +8,6 @@ When I'm not building production-grade AI microservices, I am grinding data stru
 
 ---
 
-### 🔭 What I'm Currently Working On
-
-* **Retrieval-Augmented Generation (RAG) Engine:** Architecting a custom semantic search pipeline using native Python text preprocessing (TF-IDF/BM25) and dense vector embeddings, wrapped in a scalable high-throughput **FastAPI** backend with asynchronous **AWS SQS** event queues.
-* **Autonomous AI Coding Agent:** Continuing to refine a command-line development agent powered by the Google Gemini GenAI SDK, featuring secure sandbox execution, deterministic tool-calling, and automated code testing.
-* **Algorithmic Problem Solving:** Maintaining a strict regimen of competitive programming and algorithm optimization. 
-
----
-
 ### 💻 Technical Arsenal
 
 **Languages:** `C++` | `Java` | `Python` | `JavaScript (ES6+)` | `SQL`
@@ -30,9 +22,9 @@ When I'm not building production-grade AI microservices, I am grinding data stru
 
 ### 📈 GitHub Stats & Coding Profiles
 
-* 🔗 **LinkedIn:** [linkedin.com/in/your-profile-here](#)
-* 𝕏 **X (Twitter):** [@your-handle-here](#)
-* ⚔️ **LeetCode:** [leetcode.com/u/your-handle-here](#)
-* 🏆 **Codeforces:** [codeforces.com/profile/your-handle-here](#)
+* 🔗 **LinkedIn:** [www.linkedin.com/in/vatsal-jain-434933248](#)
+* 𝕏 **X (Twitter):** [https://x.com/lostzorooo](#)
+* ⚔️ **LeetCode:** [https://leetcode.com/u/fZuJfc2td7/](#)
+* 🏆 **Codeforces:** [codeforces.com/profile/lostzorooo](#)
 
 > *"The only way to do it is by doing it."*
