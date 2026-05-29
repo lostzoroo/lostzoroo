@@ -32,4 +32,4 @@ When I'm not building production-grade AI microservices, I am grinding data stru
 
 ---
 
-> *"The only way to do it is by doing it."*
+> *"The only way to do something is by doing it."*
